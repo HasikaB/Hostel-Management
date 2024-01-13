@@ -38,7 +38,6 @@ GLOBAL VARIABLES:
 i, j, main_exit: Global integer variables.
 
 FUNCTION DECLERATIONS:
-
 void menu(): Displays the main menu and redirects to various functions based on user input.
 void new_entry(): Adds a new student's data.
 void edit(): Updates information for an existing student.
